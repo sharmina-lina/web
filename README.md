@@ -1,4 +1,5 @@
-# Portfolio of Sharmina
-## 1. Click the below link to know details about my skills, works and experiences
+# Portfolio of Sharmina  
 
-```https://sharmina-lina.github.io/web/```
+## 1. Click the link below to see details about my skills, work, and experience  
+
+[🔗 Visit my portfolio](https://sharmina-lina.github.io/web/)
